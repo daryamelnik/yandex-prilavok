@@ -1,7 +1,5 @@
 ### **Useful links:**
 
-[Баг-репорты](https://daryamlnk.youtrack.cloud/issues?q=tag:%20%7B%D0%A1%D0%BF%D1%80%D0%B8%D0%BD%D1%82%203%7D) ;
-
 [Тестовый стенд](https://{id}.serverhub.praktikum-services.ru/) ;
 
 [Документация API](https://{id}.serverhub.praktikum-services.ru/docs/).
